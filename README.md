@@ -1,7 +1,7 @@
 # IPT
 Lab experiments
 Experiment -1 (JNI)
-  :Adding numbers same process for the three sub-experiments
+  -:Adding numbers same process for the three sub-experiments
 Experiment -2
   :2A (Non-Visual Bean)
     Bank Application
